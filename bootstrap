@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 if [[ "$SPIN" = 1 ]]
 then
